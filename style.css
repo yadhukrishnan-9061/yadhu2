@@ -1,0 +1,10 @@
+h2{
+    color: rgb(255, 127, 127);
+}
+div{
+    border: 2px solid red;
+    width: 300px;
+    left: 400px;
+    position: relative;
+    background-color: rgb(114, 114, 146);
+}
